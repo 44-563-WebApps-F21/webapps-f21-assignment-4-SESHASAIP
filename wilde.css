@@ -18,6 +18,11 @@
     font-style: italic;
     font-size: 20px;
 }
+.name:hover{
+    color: rgb(169, 169, 169);
+   box-shadow: 10px 10px 15px 5px rgb(53, 35, 35);
+   border: 10px dotted yellow;
+}
 .ILLINGWORTH{
     color:yellow;
 }
