@@ -96,4 +96,19 @@ ul.navbar-horizontal a
       background-color: #555;
       color:white;
     }
+    .icons {
+        color: green;
+        width: 500px;
+        height: 200px;
+        border: 5px solid green;
+    }
+    i {
+        text-shadow:2px 4px 6px cyan;
+    }
+    .fa {
+        font-size:500px;
+    }
+    .fa-apple, .fa-car {
+        font-size:800px;
+    }   
 
